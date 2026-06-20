@@ -5,7 +5,7 @@
         "size_xram": 1024,
         "size_code": 14336,
         "size_heap": 128,
-        "mcu": "ch552t",
+        "mcu": "ch552",
         "cpu": "mcs51"
     },
     "frameworks": [],
